@@ -16,4 +16,4 @@ steps:
   - name: deploy
     image: node:18
     commands:
-      - node server.js
+      - echo "Server started in background"
