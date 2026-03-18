@@ -1,0 +1,14 @@
+{
+  "name": "drone-demo",
+  "version": "1.0.0",
+  "description": "Simple Node.js app for Drone CI demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
